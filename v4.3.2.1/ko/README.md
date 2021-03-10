@@ -21,7 +21,7 @@ wget https://raw.githubusercontent.com/BonoTechnologies/Ravencoin_Node_Raspberry
 3. 아래의 명령어를 입력하여 받은 두 개의 파일에 실행 권한을 줍니다.
 ```shell
 chmod +x ~/01_Install.sh
-chmod +x ~/01_Check.sh
+chmod +x ~/02_Check.sh
 ```
 
 4. 설치를 위해 아래와 같이 입력합니다.
