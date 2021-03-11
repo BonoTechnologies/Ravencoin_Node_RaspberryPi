@@ -37,7 +37,6 @@ else
   tar -xvzf raven-4.3.2.1-arm-linux-gnueabihf.tar.gz
 
   sleep 2
-  #Create the Config file
   echo "레이븐코인 풀노드 구동을 위한 설정파일을 생성합니다."
   mkdir -p ~/.raven
   touch ~/.raven/raven.conf

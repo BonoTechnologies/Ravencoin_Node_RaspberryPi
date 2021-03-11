@@ -37,7 +37,6 @@ else
   tar -xvzf raven-4.3.2.1-arm-linux-gnueabihf.tar.gz
 
   sleep 2
-  #Create the Config file
   echo "Creating configuration file to run Ravencoin full node."
   mkdir -p ~/.raven
   touch ~/.raven/raven.conf
