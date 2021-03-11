@@ -2,9 +2,8 @@
 <p align="center">
   <img src="assets/images/raven_raspberry_logo.png" alt="Project Logo" width="150" />
 </p>
-<h1 align="center">Ravencoin_Node_RaspberryPi</h1>
+<h1 align="center">Ravencoin FullNode Install Guide for Raspberry Pi</h1>
 
-## Ravencoin FullNode Install Guide for Raspberry Pi
 
 ### Support Ravencore version
 
