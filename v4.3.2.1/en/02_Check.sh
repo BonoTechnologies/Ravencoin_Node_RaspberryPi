@@ -1,5 +1,4 @@
 #!/bin/bash
-
 count=$(/usr/local/bin/raven-cli getblockcount);
 /bin/echo "block count: $count";
 hash=$(/usr/local/bin/raven-cli getblockhash $count);
