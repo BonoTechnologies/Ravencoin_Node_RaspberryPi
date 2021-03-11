@@ -1,11 +1,11 @@
 # Ravencoin v4.3.2.1
 
-### 설명
+### Description
 - This Guide is based on Raspberry 4.
 - The pi user is used as it was originally installed without any additional account changes.
-- It starts working in the home directory of the Raspberry Pi's terminal to configure/merge.
+- It starts working in the home directory of the Raspberry Pi's terminal to configure/manage.
 
-### 설치
+### Installation
 1. Enter the command shown below.
 ```shell
 cd ~
