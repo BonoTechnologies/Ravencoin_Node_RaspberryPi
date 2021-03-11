@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="assets/images/raven_raspberry_logo.png" alt="Project Logo" width="244" />
+  <img src="assets/images/raven_raspberry_logo.png" alt="Project Logo" width="150" />
 </p>
 <h1 align="center">Ravencoin_Node_RaspberryPi</h1>
 
