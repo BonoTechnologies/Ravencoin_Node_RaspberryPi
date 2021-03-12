@@ -1,7 +1,7 @@
 # Ravencoin v4.3.2.1
 
 ### Description
-- This Guide is based on Raspberry 4.
+- This Guide is based on Raspberry 3, 4.
 - The pi user is used as it was originally installed without any additional account changes.
 - It starts working in the home directory of the Raspberry Pi's terminal to configure/manage.
 
