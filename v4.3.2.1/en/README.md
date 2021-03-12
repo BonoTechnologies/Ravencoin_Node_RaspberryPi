@@ -33,7 +33,9 @@ chmod +x ~/02_Check.sh
 ```shell
 ~/02_Check.sh
 ```
-   
+
+### Reference Video
+[![V[![Video Label](http://img.youtube.com/vi/YmyQkYmjpKg/0.jpg)](https://youtu.be/YmyQkYmjpKg)
 
 
 

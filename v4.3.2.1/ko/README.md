@@ -33,6 +33,6 @@ chmod +x ~/02_Check.sh
 ```shell
 ~/02_Check.sh
 ```
-   
 
-
+### 참고 영상
+[![Video Label](http://img.youtube.com/vi/6itIjnHZff4/0.jpg)](https://youtu.be/6itIjnHZff4)
