@@ -15,8 +15,11 @@
 
 | Language  | Support |
 |----------|---------|
-| English |:heavy_check_mark: |
-| Korean |:heavy_check_mark: |
+| [English](https://github.com/BonoTechnologies/Ravencoin_Node_RaspberryPi/tree/main/v4.3.2.1/en) |:heavy_check_mark: |
+| [한국어](https://github.com/BonoTechnologies/Ravencoin_Node_RaspberryPi/tree/main/v4.3.2.1/ko) |:heavy_check_mark: |
+| [日本語](https://github.com/BonoTechnologies/Ravencoin_Node_RaspberryPi/tree/main/v4.3.2.1/ja) |:heavy_check_mark: |
+| [汉语](https://github.com/BonoTechnologies/Ravencoin_Node_RaspberryPi/tree/main/v4.3.2.1/zh) |:heavy_check_mark: |
+| [русский язык](https://github.com/BonoTechnologies/Ravencoin_Node_RaspberryPi/tree/main/v4.3.2.1/ru) |:heavy_check_mark: |
 
 
 Inpired by [Ravencoin_Node_RaspberryPi](https://github.com/Mynima/Ravencoin_Node_RaspberryPi)
